@@ -13,7 +13,7 @@ function App(){
   return(
     <div>
       <Router>
-      <nav className="Nnavbar">
+      <nav className="navbar">
         
         <h4><Link to='/' className="link">Home</Link></h4>
         <h4><Link to='/about' className="link">About</Link></h4>
